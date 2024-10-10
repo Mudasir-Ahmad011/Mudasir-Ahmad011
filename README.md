@@ -1,4 +1,4 @@
-# About Me:
+# So Far:
 I’m currently diving deep into Data Science, Artificial Intelligence, and various Machine Learning models. With a passion for building intelligent systems.<br><br>Languages & Technologies:<br>React, JavaScript, HTML/CSS, TypeScript, Python, and C/C++, with experience in building scalable web applications.<br>Proficient in: React, Redux, Express.js, Node.js, Bootstrap, Firebase.<br><br>Certifications:<br>HackerRank: Certified Advanced Database SQL<br><br>🔭 I’m currently working on<br>Developing a system that converts sign language into audio, as well as several other AI-driven projects.<br><br>🌱 I’m currently learning<br>Data Science, Artificial Intelligence, Machine Learning models, and advanced algorithms.<br><br>💬 Ask me about<br>Full-stack development, scalable web applications, and databases.
 
 
